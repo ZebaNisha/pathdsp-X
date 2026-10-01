@@ -1,0 +1,22 @@
+# Raw data and generated datasets (exceed GitHub 100MB file limit)
+dataset/
+*.csv
+*.tsv
+*.xlsx
+*.gmt
+*.txt
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & IDE
+.env
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+.system_generated/
